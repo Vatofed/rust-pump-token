@@ -16,4 +16,3 @@ Welcome to **PumpTokenGenerator**, the first Rust application specifically desig
 **Run the application**
 ```bash
 cargo run
-   
