@@ -1,4 +1,4 @@
-# PumpTokenGenerator
+# Rust Pump Token
 
 ### Create Your Own Cryptocurrency Tokens on Solana
 
@@ -10,7 +10,7 @@
 ---
 
 ## Introduction
-Welcome to **PumpTokenGenerator**, the first Rust application specifically designed for creating cryptocurrency tokens on the pump.fun platform. This innovative tool harnesses the power of AI to streamline the token generation process, allowing for a user-friendly and efficient experience.
+Welcome to **Rust Pump Token**, the first Rust application specifically designed for creating cryptocurrency tokens on the pump.fun platform. This innovative tool harnesses the power of AI to streamline the token generation process, allowing for a user-friendly and efficient experience.
 
 ## Usage Steps
 **Run the application**
